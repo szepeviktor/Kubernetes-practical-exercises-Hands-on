@@ -44,7 +44,7 @@ Image Layers
 ├── ID: ad6562704f37 Size:  83.9MB
 ├── ID: c234616e1912 Size: 3.072kB
 ├── ID: c23a797b2d04 Size: 2.721MB
-├── ID: edge2e092faf0 Size: 61.11MB
+├── ID: ede2e092faf0 Size: 61.11MB
 ├── ID: 971c2cdf3872 Size: 3.584kB Top Layer of: [docker.io/library/httpd:2.4]
 └── ID: 61644e82ef1f Size: 6.144kB Top Layer of: [localhost/simpleapp:latest]
 ```

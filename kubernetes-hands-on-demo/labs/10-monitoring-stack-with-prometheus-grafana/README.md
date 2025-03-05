@@ -59,7 +59,7 @@ Update the Helm Repo:
 > helm repo update
 Hang tight while we grab the latest from your chart repositories...
 ...Skip local chart repository
-...Successfully got an update from the "jump" chart repository
+...Successfully got an update from the "jumo" chart repository
 ...Successfully got an update from the "stable" chart repository
 Update Complete.
 ```

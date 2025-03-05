@@ -41,7 +41,7 @@ Test you have the CLI working:
 k3d version
 ```
 
-> The exercises use k3d **v5**. Options have changed a lot since older versions, so if your on v4 or earlier you'll need to upgrade.
+> The exercises use k3d **v5**. Options have changed a lot since older versions, so if you're on v4 or earlier you'll need to upgrade.
 
 Create two clusters, one using a recent Kubernetes version and one using an old release:
 

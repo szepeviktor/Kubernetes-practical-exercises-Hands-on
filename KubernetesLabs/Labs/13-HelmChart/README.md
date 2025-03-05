@@ -159,7 +159,7 @@ helm uninstall charts-demo
 
 <div align="center">
 :arrow_left:&nbsp;
-  <a href="../12-WordPress-MySQL-PVC">12-WordPress-MySQL-PVC</a>
+  <a href="../12-Wordpress-MySQL-PVC">12-Wordpress-MySQL-PVC</a>
 &nbsp;&nbsp;||&nbsp;&nbsp;  <a href="../14-Logging">14-Logging</a>
   &nbsp;:arrow_right:</div>
 

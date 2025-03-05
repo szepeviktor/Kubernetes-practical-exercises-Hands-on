@@ -34,7 +34,7 @@
 :green_book: [09-StatefulSet](Labs/09-StatefulSet/README.md)  
 :green_book: [10-Istio](Labs/10-Istio/README.md)  
 :green_book: [11-CRD-Custom-Resource-Definition](Labs/11-CRD-Custom-Resource-Definition/README.md)  
-:green_book: [12-WordPress-MySQL-PVC](Labs/12-Wordpress-MySQL-PVC/README.md)  
+:green_book: [12-Wordpress-MySQL-PVC](Labs/12-Wordpress-MySQL-PVC/README.md)  
 :green_book: [13-HelmChart](Labs/13-HelmChart/README.md)  
 :green_book: [15-Prometheus-Grafana](Labs/15-Prometheus-Grafana/README.md)  
 :green_book: [16-Affinity-Taint-Tolleration](Labs/16-Affinity-Taint-Tolleration/README.md)  
@@ -162,7 +162,7 @@
 
 :green_book: [11-CRD-Custom-Resource-Definition](Labs/11-CRD-Custom-Resource-Definition/README.md)
 
-:green_book: [12-WordPress-MySQL-PVC](Labs/12-Wordpress-MySQL-PVC/README.md)
+:green_book: [12-Wordpress-MySQL-PVC](Labs/12-Wordpress-MySQL-PVC/README.md)
 
 :green_book: [13-HelmChart](Labs/13-HelmChart/README.md)
 

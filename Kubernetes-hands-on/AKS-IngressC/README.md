@@ -153,7 +153,7 @@ kubectl get pods --namespace ingress-nginx
 
 ```yaml
 Name                                         Ready   Status      Restarts   AGE
-aks-helloworld-one-and5evg58a6-d31d4          1/1     Running     0          19m
+aks-helloworld-one-nd5evg58a6-d31d4          1/1     Running     0          19m
 aks-helloworld-two-5dz3fvesda-krs8s          1/1     Running     0          19m
 ingress-nginx-admission-create--1-3fh4s      0/1     Completed   0          57m
 ingress-nginx-admission-patch--1-ts9ci       0/1     Running     0          57m

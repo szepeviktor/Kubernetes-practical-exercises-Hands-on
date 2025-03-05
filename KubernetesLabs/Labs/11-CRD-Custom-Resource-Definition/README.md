@@ -33,7 +33,7 @@
 <div align="center">
 :arrow_left:&nbsp;
   <a href="../10-Istio">10-Istio</a>
-&nbsp;&nbsp;||&nbsp;&nbsp;  <a href="../12-WordPress-MySQL-PVC">12-WordPress-MySQL-PVC</a>
+&nbsp;&nbsp;||&nbsp;&nbsp;  <a href="../12-Wordpress-MySQL-PVC">12-Wordpress-MySQL-PVC</a>
   &nbsp;:arrow_right:</div>
 
 ---
