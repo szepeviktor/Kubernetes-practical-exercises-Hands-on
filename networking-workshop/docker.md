@@ -435,9 +435,9 @@ Sending build context to Docker daemon 3.072 kB
 Step 1 : FROM busybox
  ---> 00f017a8c2a6
 Step 2 : ADD hello.sh /hello.sh
- ---> c8c3f1ea6ede
+ ---> c8c3f1ea6edge
 Removing intermediate container fa59f3921ff8
-Successfully built c8c3f1ea6ede
+Successfully built c8c3f1ea6edge
 ```
 
 Listing the image shows that image ID and size have changed:
@@ -445,7 +445,7 @@ Listing the image shows that image ID and size have changed:
 ```bash
 $ docker images
 REPOSITORY                                    TAG                 IMAGE ID            CREATED             SIZE
-hello                                         latest              c8c3f1ea6ede        10 minutes ago      1.11 MB
+hello                                         latest              c8c3f1ea6edge        10 minutes ago      1.11 MB
 ```
 
 We can run our script now:
